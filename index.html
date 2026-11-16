@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Bake or Bust! — a magic chicken bake gamble adventure</title>
+  <meta name="description" content="Draw magical eggs, tame a temperamental oven, and out-bake a fox. A free, offline push-your-luck adventure for touch, mouse and keyboard.">
+  <meta name="theme-color" content="#3b2418">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta property="og:title" content="Bake or Bust!">
+  <meta property="og:description" content="A magic chicken. A wishing oven. One delicious gamble. Play free on phone, tablet or PC.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="social.svg">
+  <meta property="og:image:alt" content="Bake or Bust! — a magic chicken bake gamble adventure">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" type="image/svg+xml" href="icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="stage">
+    <canvas id="bg"></canvas>
+    <div id="shake">
+      <div id="screen" class="screen"></div>
+    </div>
+    <div id="hud"></div>
+    <div id="flyers"></div>
+    <div id="floaters"></div>
+    <canvas id="fx"></canvas>
+    <div id="flash"></div>
+  </div>
+  <noscript>This game needs JavaScript.</noscript>
+  <script src="js/rules.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/art.js"></script>
+  <script src="js/fx.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Bake or Bust!",
+  "short_name": "Bake or Bust!",
+  "description": "A magic chicken bake gamble adventure. Draw eggs, manage heat, out-bake a fox.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3b2418",
+  "theme_color": "#3b2418",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

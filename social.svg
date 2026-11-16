@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><radialGradient id="glow"><stop stop-color="#78502c"/><stop offset="1" stop-color="#24140d"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="30" y="30" width="1140" height="570" rx="40" fill="none" stroke="#ffc93c" stroke-width="6"/>
+  <g stroke="#3b2418" stroke-width="8" stroke-linejoin="round">
+    <path d="M850 292 961 95 1072 292Z" fill="#7b4bc4"/>
+    <ellipse cx="961" cy="372" rx="95" ry="111" fill="#fff6e6"/>
+    <path d="M827 293q134-34 268 0" fill="none" stroke-width="20" stroke-linecap="round"/>
+    <circle cx="932" cy="351" r="9"/><circle cx="990" cy="351" r="9"/>
+    <path d="m943 383 18 25 18-25Z" fill="#f08a24"/>
+  </g>
+  <g font-family="Georgia,serif" font-weight="bold">
+    <text x="100" y="260" font-size="110" fill="#ffc93c">Bake or Bust!</text>
+    <text x="105" y="338" font-size="34" fill="#fff6e6">A magic chicken. A wishing oven.</text>
+    <text x="105" y="390" font-size="34" fill="#fff6e6">One delicious gamble.</text>
+  </g>
+  <text x="105" y="515" font-family="Arial,sans-serif" font-size="25" fill="#ffc93c">PLAY FREE · TOUCH, MOUSE OR KEYBOARD · OFFLINE</text>
+</svg>
